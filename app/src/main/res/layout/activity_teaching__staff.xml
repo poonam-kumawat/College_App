@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+
+    tools:context=".Teaching_Staff">
+
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:id="@+id/imageView"
+                android:src="@drawable/teacherss" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/teaching_staff"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                android:layout_marginTop="10dp"
+                android:textColor="#F12727"
+                android:id="@+id/textView"
+                />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/black"
+                android:text="@string/decription_txt"
+                android:id="@+id/textView2"/>
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="NON TEACHING STAFF"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                android:layout_marginTop="10dp"
+                android:textColor="#F12727"/>
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/nonteachers" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/visiting_faculties"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                android:layout_marginTop="10dp"
+                android:textColor="#F12727"
+                android:id="@+id/textView3" />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/design_default_color_on_secondary"
+                android:layout_marginTop="10dp"
+                android:text="@string/desc_text"
+                android:id="@+id/textView4"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="LIBRARIAN"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                android:layout_marginTop="10dp"
+                android:textColor="#F12727"
+                android:id="@+id/textView5"
+                />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginTop="10dp"
+                android:text="@string/librarian"
+                android:id="@+id/textView6"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="SPORTS"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                android:layout_marginTop="10dp"
+                android:textColor="#F12727"
+                android:id="@+id/textView7"
+                />
+
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/black"
+                android:text="@string/sports"
+                android:id="@+id/textView8"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="SUPPORTING STAFF"
+                android:layout_gravity="center"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                android:layout_marginTop="10dp"
+                android:textColor="#F12727"
+                android:id="@+id/textView9"
+                />
+
+            <TextView
+
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:textColor="@color/black"
+                android:text="@string/supportingstaff"
+                android:id="@+id/textView10"/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

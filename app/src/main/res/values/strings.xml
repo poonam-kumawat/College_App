@@ -1,0 +1,269 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">JK College Ghansoli </string>
+    <string name="start">Start</string>
+    <string name="close">Close</string>
+    <string-array name="themes">
+        <item>System Default</item>
+        <item>Dark</item>
+        <item>Light</item>
+    </string-array>
+
+
+    <string name="paragraph0">Under the umbrella of Tilak Education Society,<b> J. K. College of Science and Commerce,</b>
+        Ghansoli was established in the year <u>2009-10</u>, affiliated to the University of Mumbai .
+        The Institute was founded to train students with a holistic and defined curriculum and expertise.
+
+The college maintains a group of highly dedicated, qualified and experienced faculty members to provide the
+        best possible learning for its student. The college is fully equipped with the latest infrastructure, Library and Reading room,
+        Computer and IT labs, Conference hall fitted with audio visual aids and Gymkhana.
+    </string>
+
+
+    <string name="first_paragraph"><br>Tilak Education Societys J. K. College of Science and Commerce was established in the <i><u><b>year 2009-2010 </b></u></i>under the banner of Tilak Education Society with four full time graduation programmes.The courses are affiliated to Mumbai University. The courses provided are\n</br>
+        <br>-Bachelor of Computer Science (B.Sc. CS)\n</br>
+                <br>-Bachelor of Commerce ( B.Com)\n</br>
+                <br>-Bachelor of Information Technology ( B.Sc. IT)\n</br>
+                <br>-Bachelor of Management Studies ( BMS)\n</br>
+
+                <br>-Bachelor of Accounting and Finance ( BAF )\n</br>
+                <br>-Bachelor of Banking and Insurance ( BBI )\n</br>
+                <br>-Bachelor of Financial Market ( BFM )\n</br>
+                <br>-Bachelor of mass media (BMM)\n</br>
+
+
+        The college is fully equipment with the latest infrastructure and provides a library.computer lab,canteen,indoor gymkhana and audio visual room. Curriculum followed is as stipulated by Mumbai University with examination for the first two years is conducted by the college.
+
+        The college timing is
+        <b>from 7.30 am to 1.00 pm.</b> The academic calendar is divided into two terms.
+        The first time is from June to October and the second term is from November to April.
+    </string>
+
+
+    <string name="paragraph1">Tilak Education Societyis register on 21st September 1984 under the society Act of 1980 and Bombay Public Trust Act of 1950.
+The prime objective of the society is to provide all facilities to the children of area to enhance their studies in the most congenial atmosphere.
+    The society strongly believes that investment in quality care and education for young minds represent the significant investment in the future wellbeing for the society. The society has all along kept peace with steadily increasing need of education at all level.  i.e., from nursery to college level.
+
+Our institute aim to provide the best of all the young people of varied abilities encouraging them to achieve standards of excellence in all spheres of activities, from academic to sports and aesthetics to practical.
+ </string>
+
+
+    <string name="paragraph2"><b>”Education is not merely acquiring any degree but the education is the name of our Attitude, Action, Language, Behavior and personality with others in real life”  </b></string>
+    <string name="paragraph3">
+        In our continuous pursuit to achieve academic excellence, we provide individual attention to our students and constantly monitor their progress. Discipline is the most essential for character building of students. We inculcate discipline and good values in our students so that they become good human beings and ideal citizens of our nation. Our students participate in community development services like  Blood Donation, Tree Plantation and many more.
+
+Cultural activities and sports are highly important for all round growth and development of students personality. We encourage students to actively participate in them so that they identify and develop their talents. The theme.
+
+We keep arranging Seminars, Workshops, Presentations, Guest Lectures for the additional knowledge and information of our students. SAMVAAD -2018, an intercollegiate seminar on Mass -Media was conducted by BMM Dept. It was attended by students of nearly eight colleges across Navi Mumbai. The resource persons included film directors, journalists and many other stalwarts in the field of Mass-Media. We profusely thank our management for their constant support and encouragement to all us
+
+endeavors. I express my thanks to our teaching and non-teaching staff and our students for them
+
+contribution and co-operation. I pray to God to give more progress to our college in coming years.
+
+
+
+
+
+</string>
+    //COURSE CONTENT
+    <string name="semII"><br>->Object oriented Programming\n</br>
+                            <br>->Microprocessor Architecture\n</br>
+                            <br>->Web Programming\n</br>
+                            <br>->Numerical and Statistical Methods\n</br>
+                            <br>->Green Computing\n</br>
+                           <br>->Object Oriented Programming Practical\n</br>
+                            <br>->Microprocessor Architecture Practical\n</br>
+                            <br>->Web Programming Practical\n</br>
+                            <br>->Numerical and Statistical Methods Practical\n</br>
+                            <br>->Green Computing Practical\n</br></string>
+    <string name="SEMIII"><br>->Python Programming\n</br>
+                        	<br>->Data Structures\n</br>
+                        	<br>->Computer Networks\n</br>
+                        	<br>->Database Management Systems\n</br>
+                        	<br>->Applied Mathematics\n</br>
+                        	<br>->Python Programming Practical\n</br>
+                        	<br>->Data Structures Practical\n</br>
+                        	<br>->Computer Networks Practical\n</br>
+                        	<br>->Database Management Systems Practical\n</br>
+                        	<br>->Mobile Programming Practical\n</br></string>
+    <string name="SemIV"><br>->Core Java\n</br>
+                        <br>->Introduction to Embedded Systems\n</br>
+                        <br>->Computer Oriented Statistical Techniques\n</br>
+                        <br>->Software Engineering\n</br>
+                        <br>->Computer Graphics and Animation\n</br>
+                        <br>->Core Java Practical\n</br>
+                        <br>->Introduction to Embedded Systems Practical\n</br>
+                        <br>->Computer Oriented Statistical Techniques Practical\n</br>
+                        <br>->Software Engineering Practical\n</br>
+                        <br>->Computer Graphics and Animation Practical\n</br></string>
+    <string name="SemV"><br><b>Compulsory Subjects\n</b></br>
+                        <br>->Software Project Management\n</br>
+                        <br>->Internet of Things\n</br>
+                       <br> ->Advanced Web Programming\n</br>
+        <br><b>Elective I</b>\n</br>
+                       <br> ->Artificial Intelligence\n</br>
+                        <br>->Linux System Administration\n</br>
+        <br><b>Elective II</b>\n</br>
+                        <br>->Enterprise Java\n</br>
+                        <br>->Next Generation Technologies\n</br>
+        <br><b>Project Dissertation</b>\n</br>
+                        <br>->Internet of Things Practical\n</br>
+                        <br>->Advanced Web Programming Practical\n</br>
+                        <br>->Artificial Intelligence / Linux System Administration Practical\n</br>
+                       <br>->Enterprise Java\n</br>
+                       <br> ->Next Generation Technologies Practical\n</br></string>
+    <string name="SemVI"><br><b>Compulsory Subjects</b>\n</br>
+                        <br>->Software Quality Assurance\n</br>
+                        <br>->Security in Computing\n</br>
+                        <br>->Business Intelligence\n</br>
+        <br><b>Elective I</b>\n</br>
+                        <br>->Principles of Geographic Information Systems\n</br>
+                        <br>->Enterprise Networking\n</br>
+        <br><b>Elective II</b>\n</br>
+                        <br>->IT Service Management\n</br>
+                        <br>->Cyber Laws\n</br>
+        <br><b>Project Implementation</b>\n</br>
+                        <br>->Security in Computing Practical\n</br>
+                        <br>->Business Intelligence Practical\n</br>
+                        <br>->Principles of Geographic Information Systems\n</br>
+                        <br>->Enterprise Networking Practical\n</br>
+                        <br>->Advanced Mobile Programming\n</br>
+    </string>
+    <string name="Carrer"><br>Some common job opportunities and posts available for BSc.IT Graduates are:\n</br>
+                	<br>->Database Administration\n</br>
+                	<br>->System Administration\n</br>
+                	<br>->Cyber Law Consultant\n</br>
+                	<br>->GIS (Geographic Information Systems)\n</br>
+                	<br>->IT Service Desk\n</br>
+                	<br>->Security\n</br>
+                	<br>->Software Developer\n</br>
+                	<br>->Website Developer\n</br>
+                	<br>->Mobile app developer\n</br>
+                	<br>->Embedded Systems Programmer\n</br>
+                	<br>->Embedded Systems Developer\n</br>
+                	<br>->Software Tester\n</br>
+                	<br>->Network Administrator\n</br></string>
+    //CS COURSE
+    <string name="CarrerCS"><br>This degree can offer the designation of a computer scientist or an information systems manager or a networking specialist. Some of the esteemed job profiles after a successful completion of B.Sc in CS are:\n</br>
+        <br>->Systems analyst\n</br>
+        <br>->Information technology manager\n</br>
+        <br>->Software programmer\n</br>
+        <br>->Network programmer\n</br>
+        <br>->Cyber Security Manager\n</br>
+        <br>->Computer Graphics\n</br>
+        <br>->Database manager\n</br>
+        <br>->Data Scientist\n</br>
+</string>
+    <string name="CSSEM1"><br>->Computer Organization and Design\n</br>
+        <br>->Programming with Python- I\n</br>
+        <br>->Free and Open Source Software\n</br>
+        <br>->Database Systems\n</br>
+        <br>->Discrete Mathematics\n</br>
+        <br>->Descriptive Statistics and Introduction to Probability\n</br>
+        <br>->Soft Skills Development\n</br>
+
+    </string>
+    <string name="CSsemII"><br>->Programming with C\n</br>
+        <br>->Programming with Python– II\n</br>
+        <br>->Linux\n</br>
+       <br>->Data Structures\n</br>
+        <br>->Statistical Methods and Testing of Hypothesis\n</br>
+       <br>->Calculus\n</br>
+        <br>->Green Technologies\n</br>
+</string>
+    <string name="CSSEMIII"><br>->Theory of Computation\n</br>
+        <br>->Physical Computing and IoT Programming\n</br>
+        <br>->Core JAVA\n</br>
+        <br>->Operating System\n</br>
+        <br>->Database Management System\n</br>
+       <br>-> Web Programming\n</br>
+       <br>-> Combinatorics and Graph Theory\n</br>
+</string>
+    <string name="CSSemIV"><br>->Fundamentals of Algorithms\n</br>
+        <br>->Advanced JAVA\n</br>
+        <br>->Computer Networks\n</br>
+        <br>->Software Engineering\n</br>
+        <br>->Linear Algebra using Python\n</br>
+        <br>->.NET Technologies\n</br>
+       <br>-> Android Developer Fundamentals\n</br>
+</string>
+    <string name="CSSemV"><br>->Linux Server Administration\n</br>
+        <br>->Software Testing and Quality Assurance\n</br>
+       <br>->Information and Network Security\n</br>
+        <br>->Web Services\n</br>
+        <br>->Game Programming\n</br>
+        <br>->Project Implementation\n</br>
+</string>
+    <string name="CSSemVI"><br>->Wireless Sensor Networks and Mobile Communication\n</br>
+        <br>->Cloud Computing\n</br>
+        <br>->Information Retrieval\n</br>
+        <br>->Data Science\n</br>
+        <br>->Ethical Hacking\n</br>
+        <br>->Project Implementation\n</br>
+</string>
+    //Teaching Staff
+    <string name="teaching_staff">TEACHING STAFF</string>
+    <string name="decription_txt">
+        <b>Principal:Dr.Mrs.Gurmeet Kaur Monga         [M.A., B.Ed., SET, Ph.D]    \n</b>
+
+        <br> <b>Administrator: Mr. Anil Nair                [M.A., B.Ed.,M.B.A.]   \n</b>\n </br>
+
+        <br>1.Mrs. Sonali Sambare [IT/CS Coordinator]               </br> <br>[M.Sc IT, NET ] \n\n </br>
+
+        <br>2.Mrs. Remya Anilkumar [BMS/BAF Coordinator]       </br> <br>[ M.Com., B.Ed., SET ] \n \n</br>
+        <br>3.Mrs. Kimi Garg [BMM/BBI Coordinator]         </br> <br>  [M.A., NET  ]\n\n </br>
+        <br>4.Mrs. Bhavana Mulani \t[BCom Coordinator]  </br> <br>[ M.Com., B.Ed., M.Phil., NET] \n \n </br>
+        <br>5. Mrs.Jayashree Pravin Chaudhari       </br> <br> [M.C.A., SET  ] \n \n  </br>
+        <br>6.Mrs. Komal Bamugade       </br> <br> [M.Sc.,[c.s]. M.C.A. ] \n\n </br>
+        <br>7.Mrs. Thanmaya Jyothi  </br> <br> [ M.Sc.,[Maths] ]   \n\n </br>
+        <br>8.Ms. Minakshi Lohani   </br> <br> [ M.Com., SET]   \n\n</br>
+        <br>9.Mrs. Swati Pawar     </br> <br> [M.A,B.Ed.,NET ,SET  ]  \n\n</br>
+        <br>10.Mrs. Saba Ansari    </br> <br> [M.Sc IT, M.C.A. ] \n \n</br>
+        <br>11.Dr.Mrs. Priyanka   </br> <br> [ M.Sc.,[Maths] Ph.D ] \n\n </br>
+        <br>12.Mrs.Raajasree. K.  </br> <br> [ M.Sc., [IT, Phy.] M.Phil., B.Ed ] \n\n </br>
+        <br>13.Mrs Sushanta J. Lahiri   </br> <br>  [M.B.A., NET ] \n \n</br>
+        <br>14.Mrs. Seeta  V. Gupta      </br> <br> [ M.M.S. [HR]] \n\n </br>
+        <br>15.Mrs.Dhanya T.N.       </br> <br>   [M.C.A. ] \n \n </br>
+        <br>16.Mrs. Deepa Nair       </br> <br>  [MBA, B.ed]   \n\n\ </br>
+        <br>17.Ms. SharvariGovekar    </br> <br>[ M.com ,NET ]  \n\n </br>
+        <br>18.Ms. SwapnagandhaPimpare    </br> <br> [M.A.(PR)]  \n \n </br>
+        <br>19.Ms. Neha Jadhav     </br> <br>[  M.sc. IT , NET]   \n\n  </br>
+        <br>20.Dr. Satakshi Sharma   </br> <br> [MBA, NET, Ph.D ] \n  \n </br>
+        <br>21.Ms Shaikh Mubina Bee Afzal   </br> <br> [M.com,  B.ed, PGHRM  ] \n \n</br>
+
+
+
+    </string>
+    <string name="img">TODO</string>
+    <string name="visiting_faculties">VISITING FACULTIES</string>
+    <string name="desc_text">
+
+        <br>1.Mrs.Shanti Gounder            [M.A.,B.Ed. ]  \t</br> <br>  \n\n </br>
+        <br>2.Mrs.Archana Saha             [M.ScB.Ed ] \t\t </br> <br> \n \n </br>
+        <br>3.Mrs.Snehal Dange            [ M.ScB.Ed ]\t\t  </br> <br> \n \n</br>
+        <br>4.Mrs.Shama Bhingardive      [ M.A.,B.Ed ]\t\t </br> <br> \n \n</br>
+        <br>5.Mrs.Shobha Koli             [M.ScB.Ed ]\t\t </br> <br> \n\n</br>
+        <br>6.Mrs.Revathi                [ M.Com.,B.Ed ]\t\t</br> <br>   \n \n </br>
+        <br>7.Ms.Sayed Nadira Nawaz      [ M.Com]  \n\n</br>
+
+    </string>
+    <string name="librarian">
+        <br>1. Mrs.SmrutiKajende           [ M.Lib ]\n\n</br>
+    </string>
+    <string name="sports">
+        <br>1. Mr.Pravin Pachangane    P.B.P.E.D   \n\n </br>
+    </string>
+    <string name="supportingstaff">
+        <br> 1. Mr.Pradeep Tandel                [Peon] \n\n</br>
+        <br> 2. Mr.Sandeep Sansare                 [Peon] \n\n</br>
+        <br> 3. Mr.Vinod  Sansare                     [Peon] \n\n</br>
+        <br> 4. Mr.Achu                             [Peon]\n\n</br>
+        <br> 5. Mrs.ArunarR. Waghmare          [  House Keeping] \n\n</br>
+        <br> 6. Mrs.Suman Singh             [  House Keeping]\n\n</br>
+        <br> 7. Mrs.VimalDoke           [  House Keeping]\n\n</br>
+        <br> 8. Mrs.Manda Dhonde     [  House Keeping] \n\n</br>
+    </string>
+
+
+
+
+</resources>

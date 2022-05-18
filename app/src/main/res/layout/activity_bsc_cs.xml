@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dept.Bsc_cs">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ABOUT B.Sc. CS"
+                android:textSize="30dp"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:fontFamily="sans-serif-light"
+                android:layout_marginBottom="15dp"
+                android:textStyle="bold"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/grey2"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:padding="10dp"
+                android:layout_height="wrap_content"
+                android:text="The Department of Computer Science came into being in 2008. Bachelor of Science in Computer Science (B.Sc.C.S.) is a three year degree course which is divided into six semesters. The goals of the computer science department are to prepare students for graduate training in some specialized area of computer science, to prepare students for jobs in industry, business or government, and to provide support courses for students in engineering, mathematics and other fields requiring computing skills."
+                android:lineSpacingExtra="5dp"
+                android:textSize="16sp"
+                android:textColor="@color/black"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="match_parent"
+                    app:cardElevation="10dp"
+                    app:cardCornerRadius="10dp"
+                    android:id="@+id/eligiblecs"
+                    app:cardBackgroundColor="#F6928B"
+                    android:layout_margin="20dp"
+                    android:layout_height="wrap_content">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+
+                        <LinearLayout
+                            android:layout_gravity="center"
+                            android:layout_weight="1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:textColor="@color/black"
+                                android:textStyle="bold"
+                                android:textSize="25sp"
+                                android:id="@+id/bscit"
+                                android:layout_height="wrap_content"
+                                android:text="ELIGIBILTY"
+                                android:layout_margin="10dp"
+                                android:gravity="center"/>
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:id="@+id/textdetail"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="Eligibilty to get Admission in BSC-CS stream" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </com.google.android.material.card.MaterialCardView>
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="match_parent"
+                    app:cardElevation="10dp"
+                    app:cardCornerRadius="10dp"
+                    android:id="@+id/coursecs"
+                    app:cardBackgroundColor="#F6928B"
+                    android:layout_margin="20dp"
+                    android:layout_height="wrap_content">
+
+
+
+                    <LinearLayout
+                        android:layout_gravity="center"
+                        android:layout_weight="1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:textColor="@color/black"
+                            android:textStyle="bold"
+                            android:textSize="25sp"
+                            android:layout_height="wrap_content"
+                            android:text="Course Content"
+                            android:layout_margin="10dp"
+                            android:gravity="center"/>
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:id="@+id/textdetail2"
+                            android:layout_height="wrap_content"
+                            android:gravity="center"
+                            android:text="Courses Provided in BSC-CS stream" />
+                    </LinearLayout>
+
+
+                </com.google.android.material.card.MaterialCardView>
+
+
+            </LinearLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/grey2"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="BENIFITS OF THE COURSE"
+                android:textSize="30dp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="Providing a strong theoretical and practical background across the computer science discipline with an emphasis on software development.Imparting the skills necessary to continue education to grow professional.Inculcating professional behavior, strong ethical values, innovative research capabilities and leadership abilities."
+                android:textSize="16sp"
+                android:lineSpacingExtra="5dp"
+                android:textColor="@color/black"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CAREER PROSPECTS"
+                android:textSize="30dp"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:layout_marginTop="20dp"
+                android:textStyle="bold"/>
+            <TextView
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:textSize="16sp"
+                android:text="@string/CarrerCS"
+                android:lineSpacingExtra="5dp"
+                android:textColor="@color/black"/>
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

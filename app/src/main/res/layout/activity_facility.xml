@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Facility">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="280dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/jkcollege"
+
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="#ED655C"
+                android:textStyle="bold"
+                android:fontFamily="sans-serif"
+                android:textSize="40dp"
+                android:text="FACILITIES"
+                android:gravity="center"
+                />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="J. K. College has excellent infrastructure and facilities to make learning an easy and comfortable experience. Our infrastructure includes spacious and well-ventilated class rooms, state-of-the-art library, well-equipped laboratories, full-fledged auditorium, and an Audio Visual room. The College provides the maximum facilities for the all round development of the personality of the students."
+
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:textAppearance="@android:style/TextAppearance.DeviceDefault"
+                android:lineSpacingExtra="15sp"
+                />
+
+
+
+
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#ED655C"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:padding="20dp"
+                android:paddingVertical="20dp"
+                android:text="Auditorium"
+                android:gravity="center"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:src="@drawable/av_room"/>
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#ED655C"
+                android:padding="20dp"
+                android:textStyle="bold"
+                android:textSize="25dp"
+
+                android:paddingVertical="25dp"
+                android:text="Sports"
+                android:gravity="center"/>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="270dp"
+                android:src="@drawable/sports"/>
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#ED655C"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:paddingTop="20dp"
+                android:gravity="center"
+                android:text="IT LAB" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="270dp"
+                android:src="@drawable/itlab"/>
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#ED655C"
+                android:textStyle="bold"
+                android:textSize="25dp"
+                android:gravity="center"
+                android:paddingVertical="20dp"
+                android:text="Playground" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="270dp"
+                android:src="@drawable/ground"/>
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#ED655C"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textSize="25dp"
+                android:paddingVertical="20dp"
+                android:text="Library" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="270dp"
+                android:src="@drawable/lib"/>
+
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:textColor="#ED655C"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:textSize="25dp"
+                android:paddingVertical="20dp"
+                android:text="Classroom" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="293dp"
+                android:paddingBottom="10dp"
+                android:src="@drawable/classroom" />
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

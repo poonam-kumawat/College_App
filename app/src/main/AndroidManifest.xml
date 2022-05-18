@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.college">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/tilak"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/tilak"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.College">
+        <activity android:name=".Teaching_Staff"></activity>
+        <activity android:name=".Dept.Course_cs" />
+        <activity android:name=".Dept.Eligibility_cs" />
+        <activity android:name=".Dept.Bsc_cs" />
+        <activity android:name=".Dept.Course" />
+        <activity android:name=".Dept.Eligibility" />
+        <activity android:name=".Dept.Bscit" />
+        <activity android:name=".Dept.dept" />
+        <activity android:name=".Department.DetailActivity" />
+        <activity android:name=".Department.department" />
+        <activity android:name=".ForgetPassword" />
+        <activity android:name=".Login" />
+        <activity android:name=".registeration" />
+        <activity android:name=".Ebook" />
+        <activity android:name=".About" />
+        <activity android:name=".canteen.Canteen" />
+        <activity android:name=".Facility" />
+        <activity android:name=".FullimageView" />
+        <activity android:name=".Notice" />
+        <activity android:name=".gallery" />
+        <activity android:name=".Dashboard" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

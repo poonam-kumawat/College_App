@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dept.Eligibility">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ELIGIBILITY"
+        android:textSize="40dp"
+            android:gravity="center"
+        android:textColor="@color/black"
+        android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+        android:textStyle="bold"/>
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp">
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/white">
+            <TableRow
+                android:background="@color/grey"
+                android:layout_marginBottom="3dp">
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="HSC To First Year"
+                    android:gravity="center"
+                    android:textStyle="bold"
+                    android:textColor="@android:color/black"
+                    android:padding="10sp"
+                    android:textSize="20sp"
+                    android:layout_weight="4" />
+
+
+            </TableRow>
+            <TableRow
+                android:background="@color/grey">
+
+
+                <TextView
+                    android:layout_width="350dp"
+                    android:layout_height="match_parent"
+                    android:text="A candidate for being eligible for admission to the BSC.IT degree course shall have passed XII std from Commerce/Science with Mathematics as compulsory subject from Maharashtra Board of Higher Secondary Education or its equivalent and secured not less than 45% marks in aggregate at first attempt (40% in case of reserved category)."
+                    android:textColor="@color/black"
+                    android:textSize="18sp"/>
+
+
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="20dp">
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white">
+                <TableRow
+                    android:background="@color/grey"
+                    android:layout_marginBottom="3dp">
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Second Year"
+                        android:gravity="center"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"
+                        android:padding="10sp"
+                        android:textSize="20sp"
+                        android:layout_weight="4" />
+
+
+                </TableRow>
+                <TableRow
+                    android:background="@color/grey">
+
+
+                    <TextView
+                        android:layout_width="350dp"
+                        android:layout_height="wrap_content"
+                        android:text="All clear in Sem I and Sem II or not more than 2 KTs in Sem I and Sem II or Not more than 200 marks KT in Sem I and Sem II."
+                        android:textColor="@color/black"
+                        android:padding="10sp"
+                        android:textSize="18sp"
+                        android:layout_weight="4" />
+
+
+                </TableRow>
+            </TableLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_marginTop="20dp">
+            <TableLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/white">
+                <TableRow
+                    android:background="@color/grey"
+                    android:layout_marginBottom="3dp">
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Third Year"
+                        android:textStyle="bold"
+                        android:gravity="center"
+                        android:textColor="@color/black"
+                        android:padding="10sp"
+                        android:textSize="20sp"
+                        android:layout_weight="4"/>
+
+
+                </TableRow>
+                <TableRow
+                    android:background="@color/grey">
+
+
+                    <TextView
+                        android:layout_width="350dp"
+                        android:layout_height="wrap_content"
+                        android:text="All clear in Sem I, Sem II, Sem III and Sem IV or All clear in second year and not more than 2 KTs in SEM I and Sem II or All clear in First year and not more than 2 KTs in SEM III and Sem IV."
+                        android:textColor="@color/black"
+                        android:padding="10sp"
+                        android:textSize="18sp"
+                        android:layout_weight="4"/>
+
+
+                </TableRow>
+            </TableLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
+
+
+
+

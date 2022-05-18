@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "522135558966",
+    "firebase_url": "https://jk-college-app-d5fa9-default-rtdb.firebaseio.com",
+    "project_id": "jk-college-app-d5fa9",
+    "storage_bucket": "jk-college-app-d5fa9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522135558966:android:58b152d274d56c3a113197",
+        "android_client_info": {
+          "package_name": "com.example.adminappghansoli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522135558966-8ujbqv1kdhaelntsm2cic73vrl8sfgv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0c9vqmfFeYxxlgo6t-M_ZH0I-GESuVR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522135558966-8ujbqv1kdhaelntsm2cic73vrl8sfgv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522135558966:android:88e5525b6b7ba845113197",
+        "android_client_info": {
+          "package_name": "com.example.college"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522135558966-8ujbqv1kdhaelntsm2cic73vrl8sfgv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0c9vqmfFeYxxlgo6t-M_ZH0I-GESuVR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522135558966-8ujbqv1kdhaelntsm2cic73vrl8sfgv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

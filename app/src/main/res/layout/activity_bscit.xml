@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dept.Bscit">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ABOUT B.Sc. IT"
+            android:textSize="30dp"
+            android:textColor="@color/black"
+                android:gravity="center"
+                android:layout_marginBottom="15dp"
+            android:textStyle="bold"/>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/grey2" />
+            <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+                android:padding="10dp"
+            android:text="B.Sc. IT (Information Technology) is an undergraduate degree that can be completed in 3 years with six semesters i.e. two semesters in each year. Information technology is all about storing, processing and managing information of an organisation. B.Sc. IT course is designed to help students understand the process of managing huge data and information of an organisation, analyse the performance of the computer system and servers and ensure secure transfer of data in a network. It is one of the most popular options to get started with a career in Information Technology. The main objectives of the course are to create trained professionals who can think logically, imaginatively and critically in developing robust, extensile and highly sustainable technological solutions to simple and complex problems and can apply their knowledge and skills to be employed and excel in IT professional careers and/or to continue their education in IT and/or related post graduate programs. "
+                android:lineSpacingExtra="5dp"
+                android:textSize="16sp"
+            android:textColor="@color/black"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="match_parent"
+                    app:cardElevation="10dp"
+                    app:cardCornerRadius="10dp"
+                    android:id="@+id/eligible"
+                    app:cardBackgroundColor="#F6928B"
+                    android:layout_margin="20dp"
+                    android:layout_height="wrap_content">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+
+                        <LinearLayout
+                            android:layout_gravity="center"
+                            android:layout_weight="1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:textColor="@color/black"
+                                android:textStyle="bold"
+                                android:textSize="25sp"
+                                android:id="@+id/bscit"
+                                android:layout_height="wrap_content"
+                                android:text="ELIGIBILTY"
+                                android:layout_margin="10dp"
+                                android:gravity="center"/>
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:id="@+id/textdetail"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="Eligibilty to get Admission in BSC-IT stream" />
+                        </LinearLayout>
+                    </LinearLayout>
+
+                </com.google.android.material.card.MaterialCardView>
+                <com.google.android.material.card.MaterialCardView
+                    android:layout_width="match_parent"
+                    app:cardElevation="10dp"
+                    app:cardCornerRadius="10dp"
+                    android:id="@+id/course"
+                    app:cardBackgroundColor="#F6928B"
+                    android:layout_margin="20dp"
+                    android:layout_height="wrap_content">
+
+
+
+                        <LinearLayout
+                            android:layout_gravity="center"
+                            android:layout_weight="1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:orientation="vertical">
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:textColor="@color/black"
+                                android:textStyle="bold"
+                                android:textSize="25sp"
+                                android:layout_height="wrap_content"
+                                android:text="Course Content"
+                                android:layout_margin="10dp"
+                                android:gravity="center"/>
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:id="@+id/textdetail2"
+                                android:layout_height="wrap_content"
+                                android:gravity="center"
+                                android:text="Courses Provided in BSC-IT stream" />
+                        </LinearLayout>
+
+
+                </com.google.android.material.card.MaterialCardView>
+
+
+            </LinearLayout>
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/grey2"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="BENIFITS OF THE COURSE"
+                android:textSize="30dp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:gravity="center"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:text="It is a job-oriented course that caters to the needs of the IT Industry. After completion of the programme, with ability to analyze and design system and hands-on experience on modern software design and development tools, a graduate of this Program can expect to build a satisfying career in the challenging field of Information Technology. Graduates become eligible for pursuing further studies in India or abroad in the courses like MCA/MSc IT/MSc CS/MBA etc."
+                android:textSize="16sp"
+                android:lineSpacingExtra="5dp"
+                android:textColor="@color/black"/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="CAREER PROSPECTS"
+                android:gravity="center"
+                android:textSize="30dp"
+                android:textColor="@color/black"
+                android:layout_marginTop="20dp"
+                android:textStyle="bold"/>
+            <TextView
+                android:layout_width="350dp"
+                android:layout_height="wrap_content"
+                android:textSize="16sp"
+                android:padding="10dp"
+                android:text="@string/Carrer"
+                android:lineSpacingExtra="5dp"
+                android:textColor="@color/black"/>
+
+
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
