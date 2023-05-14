@@ -17,4 +17,6 @@ The College App is built using Java programming language and Firebase, a mobile 
 
 ## Screenshots
 
+<img src="ss/dashboard (1).jpeg" height=450>&nbsp;&nbsp;        <img src="ss/dashboard (2).jpeg" height=450>&nbsp;&nbsp;            <img src="ss/dashboard (3).jpeg" height=450>&nbsp;&nbsp;    <img src="ss/dashboard (4).jpeg" height=450>
+
 
